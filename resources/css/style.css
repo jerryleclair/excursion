@@ -2,13 +2,30 @@ html {
   background: black;
   text-align: center;
   font-family: Verdana;
+  font-weight: normal;  
 }
 
 h1 {
   color: white;
   font-size: 50px;
+  font-weight: normal;
 }
 
 h2 {
   color: gray;
+  text-align: right;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.blurb1 {
+  font-size: 21px;
+}
+
+.blurb2 {
+  font-weight: 300;
+  font-size: 42px;
 }
